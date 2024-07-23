@@ -1,4 +1,4 @@
-# Proyecto 11.- Registro de películas y series 
+# Proyecto 11.- Registro de películas y libros. 
 
 En este proyecto he creado un mini data set con todas las películas que he visto y libros que he leído este año (sept 2023 - jul 2024) con el género al que pertenece. Luego, he creado una pequeña tabla dinámica para el conteo de función del género utilizando la función contar.si y luego he sacado los porcentajes de conteo. Con los porcentajes cree un gráfico circular o pie chart para saber qué porcentaje del total corresponde a cada género o categoría. Así pude saber que el 17% de las películas que vi ese año fueron comedias románticas y no me avergüenzo de ello.
 
